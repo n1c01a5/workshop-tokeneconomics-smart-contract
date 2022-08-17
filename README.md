@@ -1,1 +1,1 @@
-# workshop-tokeneconomics-smart-contract
+# Workshop tokeneconomics & smart contract
